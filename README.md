@@ -46,7 +46,7 @@ sistema-boletim/
 
 ## Como executar
 
-Clone o repositório:
+Clone o repositório: https://github.com/BrunoSlvCh/v1.0-Sistema-de-boletim-com-3-notas-fixas
 
 ---
 
